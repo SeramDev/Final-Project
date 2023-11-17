@@ -1,0 +1,8 @@
+.venv
+*.pem
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+__pycache__
+env
